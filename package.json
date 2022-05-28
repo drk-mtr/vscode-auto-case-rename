@@ -2,7 +2,11 @@
   "name": "auto-case-rename",
 	"displayName": "auto-case-rename",
 	"description": "Rename in current file with auto case conversion",
-	"version": "0.0.1",
+	"version": "1.0.0",
+	"repository": {
+		"type" : "git",
+		"url" : "https://github.com/drk-mtr/vscode-auto-case-rename"
+	},
 	"engines": {
 		"vscode": "^1.67.0"
 	},
