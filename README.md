@@ -1,4 +1,4 @@
-# Auto case rename README
+# Auto Case Rename
 
 Simple extension to rename strings in the current file and perform case conversion.
 
