@@ -1,6 +1,6 @@
 {
   "name": "auto-case-rename",
-	"displayName": "auto-case-rename",
+	"displayName": "Auto Case Rename",
 	"description": "Rename in current file with auto case conversion",
 	"version": "1.0.0",
 	"publisher": "drk-mtr",
